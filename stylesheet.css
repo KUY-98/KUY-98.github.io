@@ -1,0 +1,20 @@
+.header{
+  height:65px;
+
+  font-size: 40px;
+  color:black;
+}
+.main{
+  height:300px;
+
+}
+h1{
+  letter-spacing: 0.2em;
+  color:#CD853F;
+  text-shadow: 3px 3px 5px black;
+}
+body {
+  height:  300px;
+  background: height:  300px;
+    background: linear-gradient(90deg, rgb(224, 224, 191), rgb(170, 147, 86));
+}
